@@ -10,7 +10,7 @@ class ResultScreen(QWidget):
     def initUI(self):
         layout = QVBoxLayout()
         
-        title = QLabel("Résultat du test de Ruffier")
+        title = QLabel("Résultat du test de Ruffier : SAAD ZERRAI")
         title.setAlignment(Qt.AlignCenter)
         title.setStyleSheet("font-size: 24px; font-weight: bold;")
         
