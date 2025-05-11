@@ -11,7 +11,7 @@ class RuffierTestApp(QStackedWidget):
         self.user_data = {}
 
     def initUI(self):
-        self.setWindowTitle('Test de Ruffier')
+        self.setWindowTitle('Test de Ruffier : V0.0.1')
         self.setGeometry(300, 300, 600, 400)
 
         # Create screens
