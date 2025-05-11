@@ -10,7 +10,7 @@ class InfoScreen(QWidget):
     def initUI(self):
         layout = QVBoxLayout()
         
-        title = QLabel("Test de Ruffier : Modifier par SAAD ZERRAI le 11/05/2025")
+        title = QLabel("Test de Ruffier :")
         title.setAlignment(Qt.AlignCenter)
         title.setStyleSheet("font-size: 24px; font-weight: bold;")
         
